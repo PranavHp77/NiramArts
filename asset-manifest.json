@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.9f2e4908.chunk.css",
-    "main.js": "/static/js/main.bb2d67cc.chunk.js",
-    "main.js.map": "/static/js/main.bb2d67cc.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.09052b4a.js",
-    "runtime-main.js.map": "/static/js/runtime-main.09052b4a.js.map",
-    "static/js/2.0f94c554.chunk.js": "/static/js/2.0f94c554.chunk.js",
-    "static/js/2.0f94c554.chunk.js.map": "/static/js/2.0f94c554.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.9f2e4908.chunk.css.map": "/static/css/main.9f2e4908.chunk.css.map",
-    "static/js/2.0f94c554.chunk.js.LICENSE.txt": "/static/js/2.0f94c554.chunk.js.LICENSE.txt",
-    "static/media/map.svg": "/static/media/map.91439932.svg",
-    "static/media/svg1.svg": "/static/media/svg1.1bac43c7.svg",
-    "static/media/svg2.svg": "/static/media/svg2.f074f58c.svg",
-    "static/media/svg3.svg": "/static/media/svg3.1cd1c486.svg",
-    "static/media/video.374798e8.mp4": "/static/media/video.374798e8.mp4"
+    "main.css": "/NiramArts/static/css/main.9f2e4908.chunk.css",
+    "main.js": "/NiramArts/static/js/main.bb2d67cc.chunk.js",
+    "main.js.map": "/NiramArts/static/js/main.bb2d67cc.chunk.js.map",
+    "runtime-main.js": "/NiramArts/static/js/runtime-main.4730c9d1.js",
+    "runtime-main.js.map": "/NiramArts/static/js/runtime-main.4730c9d1.js.map",
+    "static/js/2.20347cb5.chunk.js": "/NiramArts/static/js/2.20347cb5.chunk.js",
+    "static/js/2.20347cb5.chunk.js.map": "/NiramArts/static/js/2.20347cb5.chunk.js.map",
+    "index.html": "/NiramArts/index.html",
+    "static/css/main.9f2e4908.chunk.css.map": "/NiramArts/static/css/main.9f2e4908.chunk.css.map",
+    "static/js/2.20347cb5.chunk.js.LICENSE.txt": "/NiramArts/static/js/2.20347cb5.chunk.js.LICENSE.txt",
+    "static/media/map.svg": "/NiramArts/static/media/map.91439932.svg",
+    "static/media/svg1.svg": "/NiramArts/static/media/svg1.1bac43c7.svg",
+    "static/media/svg2.svg": "/NiramArts/static/media/svg2.f074f58c.svg",
+    "static/media/svg3.svg": "/NiramArts/static/media/svg3.1cd1c486.svg",
+    "static/media/video.374798e8.mp4": "/NiramArts/static/media/video.374798e8.mp4"
   },
   "entrypoints": [
-    "static/js/runtime-main.09052b4a.js",
-    "static/js/2.0f94c554.chunk.js",
+    "static/js/runtime-main.4730c9d1.js",
+    "static/js/2.20347cb5.chunk.js",
     "static/css/main.9f2e4908.chunk.css",
     "static/js/main.bb2d67cc.chunk.js"
   ]
