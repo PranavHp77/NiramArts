@@ -1,1 +1,1 @@
- https://pranavhp77.github.io/NiramArts/
+https://hungry-beaver-554061.netlify.app
